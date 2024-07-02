@@ -134,7 +134,7 @@ arduino-temperature-sensor/
 3. **Set Up and Use PLX-DAQ:**
     - Open Excel and connect to the Arduino using PLX-DAQ.
     - Real-time temperature data will be displayed and can be plotted in Excel.
-4. ** Project implementation (2013)
+4. **Project implementation (2013):**
    - https://youtu.be/_ZXs6W1JNhk?si=JojLBqAGCaauia4I
 
 ## Contributing
